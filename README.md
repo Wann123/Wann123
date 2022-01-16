@@ -1,8 +1,8 @@
 ### Hi there 👋
-only a student
+一心奔向阳光，所见即是光明
 
 <!--
-**Wann123/Wann123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Wann123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
